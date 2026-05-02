@@ -9,7 +9,6 @@
 
 ## 🤝 Open Source Contributions
 
-[![Contributor Badge](https://img.shields.io/badge/Contributor-REPO__NAME-brightgreen?logo=github&style=for-the-badge)](https://github.com/ThanushreeN27/ur5-3d-object-scanner-reconstruction)
-
+[![Contributor Badge](https://img.shields.io/badge/Contributor-ur5--3d--object--scanner--reconstruction-brightgreen?logo=github&style=for-the-badge)](https://github.com/ThanushreeN27/ur5-3d-object-scanner-reconstruction)
 ## 📬 Contact
 📧 rohithvandadi07@gmail.com
