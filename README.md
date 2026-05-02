@@ -23,5 +23,5 @@
 
 ## 📬 Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/rohithv0507/)
-📧 rohithvandadi07@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rohith%20V-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/rohithv0507/)
+[![Gmail](https://img.shields.io/badge/Gmail-rohithvandadi07@gmail.com-red?logo=gmail&style=for-the-badge)](mailto:rohithvandadi07@gmail.com)
