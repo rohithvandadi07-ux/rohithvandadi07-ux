@@ -16,6 +16,7 @@
 - 🚨 **[Accident Detection](https://github.com/rohithvandadi07-ux/accident-detection)** — Real-time accident detection from images and videos using YOLOv8 with automatic alerts
 - 💬 **[AI Chatbot](https://github.com/rohithvandadi07-ux/ai-chatbot)** — Conversational AI chatbot with full memory and multiple personalities using Groq + LLaMA 3
 - 🎭 **[Deepfake Detection](https://github.com/rohithvandadi07-ux/deepfake-detection)** — AI-powered deepfake detector analyzing face images for GAN artifacts using MobileNetV2 + OpenCV
+- 🏥 **[Disease Prediction](https://github.com/rohithvandadi07-ux/disease-prediction)** — ML-powered disease prediction from symptoms using Random Forest + Groq AI health advice
 
 ---
 
