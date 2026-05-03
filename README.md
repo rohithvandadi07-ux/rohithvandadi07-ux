@@ -12,6 +12,7 @@
 - 🌐 **[Malicious-URL-Detection](https://github.com/rohithvandadi07-ux/Malicious-URL-Detection)** — Multi-modal URL threat detection using DistilBERT & LightGBM
 - 🤖 **[ros2_object_scanner](https://github.com/rohithvandadi07-ux/ros2_object_scanner)** — 3D object reconstruction with ROS2 Jazzy
 - 📈 **[Stock Market Predictor](https://github.com/rohithvandadi07-ux/stock-market-predictor)** — LSTM-based AI model that predicts next-day stock prices with a live Streamlit dashboard
+- 🧠 **[Research Paper Summarizer](https://github.com/rohithvandadi07-ux/research-paper-summarizer)** — AI tool that summarizes multiple research papers and answers questions using Groq + LLaMA 3
 
 ---
 
