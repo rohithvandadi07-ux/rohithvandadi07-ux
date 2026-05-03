@@ -14,6 +14,7 @@
 - 📈 **[Stock Market Predictor](https://github.com/rohithvandadi07-ux/stock-market-predictor)** — LSTM-based AI model that predicts next-day stock prices with a live Streamlit dashboard
 - 🧠 **[Research Paper Summarizer](https://github.com/rohithvandadi07-ux/research-paper-summarizer)** — AI tool that summarizes multiple research papers and answers questions using Groq + LLaMA 3
 - 🚨 **[Accident Detection](https://github.com/rohithvandadi07-ux/accident-detection)** — Real-time accident detection from images and videos using YOLOv8 with automatic alerts
+- 💬 **[AI Chatbot](https://github.com/rohithvandadi07-ux/ai-chatbot)** — Conversational AI chatbot with full memory and multiple personalities using Groq + LLaMA 3
 
 ---
 
