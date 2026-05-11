@@ -19,7 +19,7 @@
 - **Stack:** Python · MobileNetV2 · OpenCV · TensorFlow · Streamlit
 - **Highlights:** Face detection · Artifact heatmap · Real vs Fake confidence score
 
-### 🛡️ [Real-Time Phishing Detection System](https://github.com/rohithvandadi07-ux/Malicious-URL-Detection)
+### 🛡️ [Real-Time Phishing Detection System](https://github.com/rohithvandadi07-ux/ai-phishing-detection-system.git)
 > Multi-model threat detection system combining DistilBERT + LightGBM to identify malicious URLs in real-time
 - **Stack:** Python · DistilBERT · LightGBM · 1D-CNN · Ensemble Learning
 - **Highlights:** Multi-modal detection · Real-time prediction · Smart device protection
