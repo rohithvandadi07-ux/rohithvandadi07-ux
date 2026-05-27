@@ -1,13 +1,29 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Rohith%20V&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=AI%20%26%20Developer&descSize=20&descAlignY=58&descColor=a78bfa" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Rohith%20V&fontSize=60&fontColor=ffffff&font=Orbitron&fontAlignY=35&desc=AI%2FML%20Enthusiast%20%7C%20Developer&descSize=20&descAlignY=58&descColor=a78bfa" />
+</div>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=850&lines=Building+AI-powered+Cybersecurity+Systems;Developing+Real-Time+Threat+Detection+Platforms;ROS2+%7C+AI+%7C+ML+%7C+Cybersecurity;Turning+Research+into+Real-World+Products" />
+
+</div>
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rohith%20V-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/rohithv0507/)
 [![Gmail](https://img.shields.io/badge/Gmail-rohithvandadi07@gmail.com-red?logo=gmail&style=for-the-badge)](mailto:rohithvandadi07@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-rohithvandadi07--ux-black?logo=github&style=for-the-badge)](https://github.com/rohithvandadi07-ux)
+[![GitHub](https://img.shields.io/badge/GitHub-rohithvandadi07--ux-181717?logo=github&style=for-the-badge)](https://github.com/rohithvandadi07-ux)
 
 </div>
+
+---
+
+## 🚀 Currently Working On
+
+- 🛡️ AI-Enhanced Multimodal Phishing Detection
+- 🤖 ROS2 Security Layer for Autonomous Systems
+- 🔐 Real-Time AI Cybersecurity Platforms
+- 🧠 Building Research into Product-Grade Systems
 
 ---
 
@@ -18,6 +34,7 @@
 <td width="50%" valign="top">
 
 ### 🎭 [Deepfake Detection System](https://github.com/rohithvandadi07-ux/deepfake-detection)
+
 > Explainable AI model detecting GAN-generated & AI face-swapped images with visual artifact analysis
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -28,9 +45,11 @@
 ✅ Face detection · Artifact heatmap · Confidence scoring
 
 </td>
+
 <td width="50%" valign="top">
 
 ### 🛡️ [Real-Time Phishing Detection](https://github.com/rohithvandadi07-ux/ai-phishing-detection-system.git)
+
 > Multi-model threat detection combining DistilBERT + LightGBM for malicious URL detection
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -41,10 +60,12 @@
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
 ### 💬 [Context-Aware AI Chatbot](https://github.com/rohithvandadi07-ux/ai-chatbot)
+
 > Memory-enabled conversational AI with multiple personalities and ultra-fast responses
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -54,10 +75,12 @@
 ✅ Full memory · 5 personality modes · Adjustable creativity
 
 </td>
+
 <td width="50%" valign="top">
 
 ### 🔐 [VendorGuard](https://github.com/rohithvandadi07-ux/vendorguard)
-> Enterprise Vendor Risk Scorecard Platform — automated cybersecurity checks with risk scoring
+
+> Enterprise Vendor Risk Scorecard Platform — automated cybersecurity checks with intelligent risk scoring
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
@@ -85,17 +108,29 @@
 
 ---
 
+## 🔬 Research Interests
+
+- AI-driven Cybersecurity
+- Malicious URL Detection
+- Explainable AI (XAI)
+- ROS2 Security
+- Threat Intelligence Systems
+- Edge AI & Intelligent Systems
+
+---
+
 ## 🧠 Tech Stack
 
 <table>
 <tr>
+
 <td valign="top" width="50%">
 
-**Languages**
+### Languages
 
 [![Languages](https://skillicons.dev/icons?i=python,cpp&theme=dark)](https://skillicons.dev)
 
-**AI / ML**
+### AI / ML
 
 [![AI/ML](https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark)](https://skillicons.dev)
 
@@ -105,9 +140,10 @@
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat&logoColor=white)
 
 </td>
+
 <td valign="top" width="50%">
 
-**Tools & Frameworks**
+### Tools & Frameworks
 
 [![Tools](https://skillicons.dev/icons?i=fastapi,docker,git,linux,react&theme=dark)](https://skillicons.dev)
 
@@ -117,6 +153,7 @@
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
 </td>
+
 </tr>
 </table>
 
@@ -126,22 +163,39 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rohithvandadi07-ux&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohithvandadi07-ux&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=rohithvandadi07-ux&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=rohithvandadi07-ux&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohithvandadi07-ux&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
 </div>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 ---
 
 ## 🤝 Open Source Contributions
 
 [![Contributor](https://img.shields.io/badge/Contributor-ur5--3d--object--scanner--reconstruction-brightgreen?logo=github&style=for-the-badge)](https://github.com/ThanushreeN27/ur5-3d-object-scanner-reconstruction)
+
+---
+
+## 💭 Philosophy
+
+<div align="center">
+
+> “The future belongs to those who build intelligent systems that protect, empower, and evolve with humanity.”
+
+</div>
 
 ---
 
