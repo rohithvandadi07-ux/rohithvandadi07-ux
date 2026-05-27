@@ -1,14 +1,8 @@
-<div align="center">
-
 # Hi, I'm Rohith V 👋
 
 ### Building intelligent systems in AI, Cybersecurity & Applied Machine Learning
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rohith%20V-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/rohithv0507/)
-[![Gmail](https://img.shields.io/badge/Gmail-rohithvandadi07@gmail.com-red?logo=gmail&style=for-the-badge)](mailto:rohithvandadi07@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-rohithvandadi07--ux-black?logo=github&style=for-the-badge)](https://github.com/rohithvandadi07-ux)
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rohith%20V-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/rohithv0507/) [![Gmail](https://img.shields.io/badge/Gmail-rohithvandadi07@gmail.com-red?logo=gmail&style=for-the-badge)](mailto:rohithvandadi07@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-rohithvandadi07--ux-black?logo=github&style=for-the-badge)](https://github.com/rohithvandadi07-ux)
 
 ---
 
@@ -29,6 +23,11 @@
 - **Stack:** Python · Groq · LLaMA 3.3 70B · LangChain · Streamlit
 - **Highlights:** Full conversation memory · 5 personality modes · Adjustable creativity
 
+### 🔐 [VendorGuard](https://github.com/rohithvandadi07-ux/vendorguard)
+> Enterprise-grade Vendor Risk Scorecard Platform that automates cybersecurity checks on vendors and generates comprehensive risk scores
+- **Stack:** Python · FastAPI · PostgreSQL · React · TailwindCSS · Docker
+- **Highlights:** DNS & SSL analysis · Port scanning · VirusTotal/AbuseIPDB/Shodan integration · Risk scoring engine (0–100) · JWT auth
+
 ---
 
 ## ⚡ Other Projects
@@ -47,22 +46,13 @@
 ## 🧠 Tech Stack
 
 **Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 
 **AI / ML**
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
-![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black) ![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 
 **Tools & Frameworks**
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat&logo=ros&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat&logo=ros&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ---
 
@@ -74,13 +64,8 @@
 
 ## 📬 Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rohith%20V-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/rohithv0507/)
-[![Gmail](https://img.shields.io/badge/Gmail-rohithvandadi07@gmail.com-red?logo=gmail&style=for-the-badge)](mailto:rohithvandadi07@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rohith%20V-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/rohithv0507/) [![Gmail](https://img.shields.io/badge/Gmail-rohithvandadi07@gmail.com-red?logo=gmail&style=for-the-badge)](mailto:rohithvandadi07@gmail.com)
 
 ---
 
-<div align="center">
-
 ![Profile Views](https://komarev.com/ghpvc/?username=rohithvandadi07-ux&color=blue&style=flat-square)
-
-</div>
