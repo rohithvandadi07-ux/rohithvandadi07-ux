@@ -99,6 +99,7 @@
 
 | Project | Description | Stack |
 |---------|-------------|-------|
+| 🌱 [EcoTrace AI](https://github.com/rohithvandadi07-ux/ecotrace-ai) | Interactive carbon footprint tracker with a built-in Google Gemini AI Advisor | HTML5 · JavaScript · Chart.js · Gemini API |
 | 📊 [AI Resume Analyzer](https://github.com/rohithvandadi07-ux/ai-resume-analyzer) | Scores resumes, detects skill gaps & gives ATS suggestions | Groq · LLaMA 3 · PyPDF2 |
 | 🚨 [Accident Detection](https://github.com/rohithvandadi07-ux/accident-detection) | Real-time accident detection from images & videos | YOLOv8 · OpenCV · Streamlit |
 | 🤖 [ROS2 Object Scanner](https://github.com/rohithvandadi07-ux/ros2_object_scanner) | 3D object reconstruction using ROS2 Jazzy simulation | ROS2 · Python · Gazebo |
