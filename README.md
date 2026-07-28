@@ -164,9 +164,9 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rohithvandadi07-ux&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=rohithvandadi07-ux&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohithvandadi07-ux&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohithvandadi07-ux&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 
 </div>
 
