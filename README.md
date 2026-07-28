@@ -164,13 +164,9 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=rohithvandadi07-ux&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rohithvandadi07-ux&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
 
-</div>
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohithvandadi07-ux&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1800)
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohithvandadi07-ux&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -179,7 +175,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
