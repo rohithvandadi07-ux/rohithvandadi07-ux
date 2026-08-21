@@ -35,7 +35,7 @@ query($login: String!) {
         }
       }
     }
-    repositories(first: 100, ownerAffiliation: OWNER, isFork: false) {
+    repositories(first: 100, ownerAffiliations: [OWNER], isFork: false) {
       totalCount
       nodes {
         languages(first: 5, orderBy: {field: SIZE, direction: DESC}) {
