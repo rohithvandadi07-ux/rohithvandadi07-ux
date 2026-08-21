@@ -164,7 +164,7 @@
 
 <div align="center">
 
-<img src="https://github.com/rohithvandadi07-ux/rohithvandadi07-ux/blob/main/github-metrics.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/rohithvandadi07-ux/rohithvandadi07-ux/main/github-terminal-stats.svg" />
 
 </div>
 
