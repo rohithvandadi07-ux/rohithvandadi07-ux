@@ -164,11 +164,26 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rohithvandadi07-ux&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rohithvandadi07-ux&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github.com/rohithvandadi07-ux/rohithvandadi07-ux/blob/main/github-metrics.svg" width="100%" />
 
 </div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rohithvandadi07-ux&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rohithvandadi07-ux&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+
+</div>
+
 ---
 
 ## 🐍 Contribution Snake
@@ -179,14 +194,11 @@
 
 ---
 
-
----
-
 ## 💭 Philosophy
 
 <div align="center">
 
-> “The future belongs to those who build intelligent systems that protect, empower, and evolve with humanity.”
+> "The future belongs to those who build intelligent systems that protect, empower, and evolve with humanity."
 
 </div>
 
