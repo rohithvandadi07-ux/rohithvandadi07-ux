@@ -179,9 +179,6 @@
 
 ---
 
-## 🤝 Open Source Contributions
-
-[![Contributor](https://img.shields.io/badge/Contributor-ur5--3d--object--scanner--reconstruction-brightgreen?logo=github&style=for-the-badge)](https://github.com/ThanushreeN27/ur5-3d-object-scanner-reconstruction)
 
 ---
 
