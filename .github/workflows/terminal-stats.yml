@@ -19,7 +19,7 @@ jobs:
 
       - name: Generate terminal stats SVG
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.STATS_PAT }}
           GH_USERNAME: rohithvandadi07-ux
         run: python scripts/generate_terminal_stats.py
 
