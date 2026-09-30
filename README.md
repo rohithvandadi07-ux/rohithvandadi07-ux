@@ -22,7 +22,7 @@
 
 <div align="center">
 
-<img alt="About me terminal" src="./about-terminal.svg" width="100%" />
+<img alt="About me terminal" src="./about-me.svg" width="100%" />
 
 </div>
 
