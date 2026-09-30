@@ -18,6 +18,16 @@
 
 ---
 
+## 👨‍💻 About Me
+
+<div align="center">
+
+<img alt="About me terminal" src="./about-terminal.svg" width="100%" />
+
+</div>
+
+---
+
 ## 🚀 Currently Working On
 
 - 🛡️ AI-Enhanced Multimodal Phishing Detection
@@ -160,6 +170,16 @@
 
 ---
 
+## 🪐 Tech Orbit
+
+<div align="center">
+
+<img alt="Tech stack orbit" src="./tech-orbit.svg" width="100%" />
+
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -185,6 +205,16 @@
 <div align="center">
 
 <img alt="Threat detection pipeline" src="./threat-pipeline.svg" width="100%" />
+
+</div>
+
+---
+
+## 🧭 From Research to Product
+
+<div align="center">
+
+<img alt="Research to product journey" src="./journey.svg" width="100%" />
 
 </div>
 
