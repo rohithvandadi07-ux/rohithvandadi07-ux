@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Rohith%20V&fontSize=60&fontColor=ffffff&font=Orbitron&fontAlignY=35&desc=AI%2FML%20Enthusiast%20%7C%20Developer&descSize=20&descAlignY=58&descColor=a78bfa" />
+  <img alt="Header" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Rohith%20V&fontSize=60&fontColor=ffffff&font=Orbitron&fontAlignY=35&desc=AI%2FML%20Enthusiast%20%7C%20Developer&descSize=20&descAlignY=58&descColor=a78bfa" />
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=850&lines=Building+AI-powered+Cybersecurity+Systems;Developing+Real-Time+Threat+Detection+Platforms;ROS2+%7C+AI+%7C+ML+%7C+Cybersecurity;Turning+Research+into+Real-World+Products" />
+<img alt="Typing intro" src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=850&lines=Building+AI-powered+Cybersecurity+Systems;Developing+Real-Time+Threat+Detection+Platforms;ROS2+%7C+AI+%7C+ML+%7C+Cybersecurity;Turning+Research+into+Real-World+Products" />
 
 </div>
 
@@ -48,7 +48,7 @@
 
 <td width="50%" valign="top">
 
-### 🛡️ [Real-Time Phishing Detection](https://github.com/rohithvandadi07-ux/ai-phishing-detection-system.git)
+### 🛡️ [Real-Time Phishing Detection](https://github.com/rohithvandadi07-ux/ai-phishing-detection-system)
 
 > Multi-model threat detection combining DistilBERT + LightGBM for malicious URL detection
 
@@ -164,23 +164,17 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/rohithvandadi07-ux/rohithvandadi07-ux/main/github-terminal-stats.svg" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rohithvandadi07-ux&theme=tokyonight&hide_border=true" />
+<img alt="GitHub terminal stats" src="./github-terminal-stats.svg" />
 
 </div>
 
 ---
 
-## 📈 Activity Graph
+## 🎯 Focus Areas
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rohithvandadi07-ux&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+<img alt="Focus areas" src="./focus-areas.svg" width="100%" />
 
 </div>
 
@@ -189,7 +183,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/rohithvandadi07-ux/rohithvandadi07-ux/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
@@ -219,6 +213,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rohithvandadi07-ux&color=blueviolet&style=flat-square)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
+<img alt="Footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
 
 </div>
