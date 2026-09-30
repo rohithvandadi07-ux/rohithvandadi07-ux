@@ -180,11 +180,13 @@
 
 ---
 
-## 🐍 Contribution Snake
+## 🛡️ How My Threat Detection Works
 
-<p align="center">
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/rohithvandadi07-ux/rohithvandadi07-ux/output/github-contribution-grid-snake-dark.svg" />
-</p>
+<div align="center">
+
+<img alt="Threat detection pipeline" src="./threat-pipeline.svg" width="100%" />
+
+</div>
 
 ---
 
