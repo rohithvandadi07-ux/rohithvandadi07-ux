@@ -20,7 +20,7 @@
   <text x="24" y="144" fill="#c8c8e8" font-family="Courier New, monospace" font-size="14" xml:space="preserve">254 contributions · 229 commits · 3 PRs opened</text>
   <text x="24" y="166" fill="#c8c8e8" font-family="Courier New, monospace" font-size="14" xml:space="preserve">contributed to 21 repositories</text>
   <text x="24" y="210" fill="#a78bfa" font-family="Courier New, monospace" font-size="14" xml:space="preserve">$ streak --status</text>
-  <text x="24" y="232" fill="#c8c8e8" font-family="Courier New, monospace" font-size="14" xml:space="preserve">current: 5 day(s)   longest: 9 day(s)</text>
+  <text x="24" y="232" fill="#c8c8e8" font-family="Courier New, monospace" font-size="14" xml:space="preserve">current: 0 day(s)   longest: 9 day(s)</text>
   <text x="24" y="276" fill="#a78bfa" font-family="Courier New, monospace" font-size="14" xml:space="preserve">$ top --languages</text>
   <text x="24" y="298" fill="#c8c8e8" font-family="Courier New, monospace" font-size="14" xml:space="preserve">Python     </text>
   <rect x="160" y="287" width="220" height="10" rx="2" fill="#22223a"/>
